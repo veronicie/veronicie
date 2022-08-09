@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning RoR and UX.
 - 💞️ I’m looking to collaborate on RoR projects.
 - 📫 You can check my LinkedIn profile: https://www.linkedin.com/in/veronika-jirickova/
-
